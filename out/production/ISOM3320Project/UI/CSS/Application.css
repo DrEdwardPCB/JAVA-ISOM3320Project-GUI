@@ -1,0 +1,8 @@
+.root {
+    -fx-font-family: "Courier New";
+}
+
+Label {
+    -fx-font-size: 72;
+    -fx-alignment: center;
+}
