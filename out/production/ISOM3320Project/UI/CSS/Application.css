@@ -1,8 +1,10 @@
 .root {
     -fx-font-family: "Courier New";
-}
-
+    }
+.haha {
+    -fx-font-size: 80;
+    }
 Label {
-    -fx-font-size: 72;
+    -fx-font-size: 40;
     -fx-alignment: center;
-}
+    }
